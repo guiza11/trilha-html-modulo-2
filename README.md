@@ -74,5 +74,5 @@ Desafio está lançado! Com tudo que aprendemos no Módulo II é perfeitamente p
 Bora pra cima!
 
 
-##Anotações das alterações
+## Anotações das alterações
 Fiz algumas alterações no css no qual não foram aprensatadas no curso, utilizei de recursos que achei por pesquisa própia, textos foram retirados de sites genéricos, o footer não consegui adicionar informações de contato pois meu tempo estava escaço os svg utilizados neles foram pegos no própio site das redes sociais menos o do linkedin que foi retirado do https://icons8.com.br/icons/set/linkedin, e por fim as imagens foram todas retiradas do google imagens.  
